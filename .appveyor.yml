@@ -1,4 +1,4 @@
-image: Windows10;
+image: Windows;
 stack: node 20
 branches:
   only:
