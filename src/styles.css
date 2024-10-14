@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.gamepool {
+    padding-top: 30px;
+    min-width: 100%;
+    min-height: 96.75vh;
+    background-color: #00A12A;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gamepool_item {
+    margin-top: 10px;
+    min-width: 13%;
+    height: 200px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin: 0 4%;
+}
+
+.goblin_img {
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
