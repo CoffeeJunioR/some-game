@@ -6,5 +6,4 @@ branches:
 cache: node_modules
 install:
   - npm install
-build: 
-  - run build
+build: true
