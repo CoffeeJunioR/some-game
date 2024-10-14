@@ -1,4 +1,4 @@
-image: Windows;
+image: Windows 10 SDK 10.0.26624;
 stack: node 20
 branches:
   only:
