@@ -6,4 +6,4 @@ branches:
 cache: node_modules
 install:
   - npm install
-build: true
+build: webpack
